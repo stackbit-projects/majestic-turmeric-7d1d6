@@ -13,6 +13,7 @@ sections:
       background_image_opacity: 0
       background_image_size: cover
       background_image_repeat: no-repeat
+      background_image: images/diagonal-lines.svg
     type: hero_section
     image: images/1.png
   - title: lorem-ipsum!!!
